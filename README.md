@@ -70,15 +70,12 @@ Key features of the system include:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Ayurvision
+   cd Synapse
    ```
 3. Install dependencies:
    ```bash
    npm install
    ```
-4. Set up the database:
-   - Start MongoDB.
-   - Configure the database connection in the `.env` file.
 
 5. Run the application:
    ```bash
@@ -88,20 +85,20 @@ Key features of the system include:
 
 ## Project Structure
 ```
-Ayurvision
+Mess-Entry-Monitoring-System
 ├── public
 ├── src
 │   ├── components
-│   ├── pages
+│   ├── models
+│   ├── utils
 │   ├── services
-│   ├── styles
-│   └── utils
+│   └── styles
 ├── .env
-├── package.json
+├── main.py
+├── requirements.txt
 └── README.md
-```
 
-## Features in Detail
+```
 
 ## Features in Detail
 
