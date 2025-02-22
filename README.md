@@ -1,7 +1,7 @@
 # **Team Name**: Synapse
 
 **Team Members**:
-- Sarim Malik
+- Sarim Malik (Team Leader)
 - Ankit Chaurasiya
 - Om Jain
 - Himanshi Verma
