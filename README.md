@@ -70,7 +70,7 @@ Key features of the system include:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Synapse
+   cd Web
    ```
 3. Install dependencies:
    ```bash
