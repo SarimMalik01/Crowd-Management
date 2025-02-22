@@ -7,7 +7,7 @@
 - Himanshi Verma
 - Aakarsh Bibhaw
 
-# **AI-powered Mess Entry Monitoring System**
+# **Mess Entry Monitoring System**
 
 ## Overview
 The **AI-powered Mess Entry Monitoring System** is designed to automatically track and count individuals entering a mess hall using cameras. The system utilizes AI algorithms to accurately detect people, handle occlusions, filter out non-human objects, and provide real-time analysis. It is built to offer precise monitoring, enhance security, and improve entry management.
