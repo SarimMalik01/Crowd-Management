@@ -17,7 +17,6 @@ Key features of the system include:
 - Handling of occlusions and overlapping individuals.
 - Filtering out non-human objects from the tracking system.
 - Real-time updates and monitoring via a user-friendly interface.
-- Optional features such as facial recognition or RFID for identity verification and duplicate detection.
 
 ## Features
 
