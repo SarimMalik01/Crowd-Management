@@ -63,3 +63,83 @@ Key features of the system include:
 #### Storage & Hosting:
 - **Vercel** – For frontend deployment.
 
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Ayurvision.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Ayurvision
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Set up the database:
+   - Start MongoDB.
+   - Configure the database connection in the `.env` file.
+
+5. Run the application:
+   ```bash
+   npm start
+   ```
+6. Access the application at `http://localhost:3000`.
+
+## Project Structure
+```
+Ayurvision
+├── public
+├── src
+│   ├── components
+│   ├── pages
+│   ├── services
+│   ├── styles
+│   └── utils
+├── .env
+├── package.json
+└── README.md
+```
+
+## Features in Detail
+
+## Features in Detail
+
+### Real-Time Entry Tracking
+- **AI-Powered People Detection**: YOLOv8 detects people in the camera feed and counts the number of entries as individuals enter the mess hall. This ensures precise tracking of people in real-time.
+  
+- **Handling Occlusions**: The DeepSORT algorithm ensures that individuals are tracked even when temporarily obscured by other people or objects. This enhances the system's ability to provide accurate counts even in crowded or complex scenarios.
+
+### Optional Features
+1. **Facial Recognition**: The system can integrate facial recognition technology to identify individuals entering the mess hall. This feature helps in verifying identities and preventing unauthorized access or duplicate counting of individuals.
+
+2. **RFID Integration**: The system can also integrate with RFID tags to automatically track individuals entering the mess hall. This feature provides an additional layer of security and helps in the automatic identification of people as they enter.
+
+## Future Enhancements
+1. **Enhanced AI Models**: In the future, we aim to upgrade to more advanced object detection models to further improve the accuracy of the system in detecting and tracking people.
+
+2. **Web Dashboard**: A web-based dashboard could be developed to visualize real-time data, entry counts, and provide detailed individual analysis for better monitoring.
+
+3. **Additional Sensors**: Integration of additional sensors (such as infrared or motion sensors) could improve the system’s ability to handle crowd density and provide more accurate entry analysis.
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature description"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+
+---
+
