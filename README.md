@@ -1,12 +1,3 @@
-# **Team Name**: Synapse
-
-**Team Members**:
-- Sarim Malik (Team Leader)
-- Ankit Chaurasiya
-- Om Jain
-- Himanshi Verma
-- Aakarsh Bibhaw
-
 # **Mess Entry Monitoring System**
 
 ## Overview
